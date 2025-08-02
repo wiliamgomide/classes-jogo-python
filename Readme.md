@@ -60,7 +60,7 @@ heroi4.atacar()
 
 1. Clone este repositório:
 
-git clone https://github.com/seu-usuario/nome-do-repo.git
+git clone https://github.com/wiliamgomide/classes-jogo-python
 
 2. Execute com Python 3:
 
@@ -78,6 +78,7 @@ python nome_do_arquivo.py
 Este projeto está sob a licença MIT.
 
 Feito com 💻 por Wiliam Gomide
+
 
 
 
